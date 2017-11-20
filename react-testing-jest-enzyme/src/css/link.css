@@ -1,0 +1,22 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.container{
+  text-align: center
+}
+h1{
+  text-align: center
+}
+
+a{
+  color:red
+}
+
+.link-container{
+  font-size: 20px;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+exports[`Link should render correctly 1`] = `
+<div
+  className="link-container">
+  <a
+    href="mockUrl"
+    onClick={[Function]}
+    target="_blank">
+    mockTitle
+  </a>
+</div>
+`;
